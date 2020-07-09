@@ -1,7 +1,7 @@
 # Hi 👋, I am Kartik Verma
 
 
-I am an undergrad at Delhi Technological University. I am a Full Stack Web Engineer. I am currently interning as Research Intern at IIITD.
+I am an undergraduate at Delhi Technological University. I am a Full Stack Web Engineer. I am currently interning as Research Intern at IIITD.
 
 ## Key Skills: 
 **Programming :** C++ (Proficient) • JavaScript • Python • TypeScript • ES6    
