@@ -1,11 +1,11 @@
 # Hi 👋, I am Kartik Verma
 
 
-I am an undergraduate at Delhi Technological University. I am a Full Stack Web Engineer. I am currently interning as Research Intern at IIITD.
+I am a final year student at DTU(Formerly DCE). I am an incoming Software Engineer at Google and a former Quantitative Research Intern at JPMorgan Chase. You can check my work at the pinned repositories below: 
 
 ## Key Skills: 
 **Programming :** C++ (Proficient) • JavaScript • Python • TypeScript • ES6    
 **Web Development :** HTML • CSS • JQuery • REST • Node • PHP    
 **Database Management :** MySQL • Firebase    
-**Frameworks :** ReactJS • React Native • ExpressJS • PrototypeJS    
+**Frameworks/Libraries :** ReactJS • React Native • ExpressJS • PrototypeJS    
 **UX Tools and Technologies :** Figma • Adobe XD   
