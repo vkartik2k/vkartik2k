@@ -3,6 +3,8 @@
 
 I am a final year student at DTU(Formerly DCE). I am an incoming Software Engineer at Google and a former Quantitative Research Intern at JPMorgan Chase. You can check my work at the pinned repositories below: 
 
+My LinkedIn Profile: https://www.linkedin.com/in/vkartik2k/
+
 ## Key Skills: 
 **Programming :** C++ (Proficient) • JavaScript • Python • TypeScript • ES6    
 **Web Development :** HTML • CSS • JQuery • REST • Node • PHP    
