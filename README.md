@@ -1,13 +1,11 @@
 # Hi 👋, I am Kartik Verma
 
 
-I am a final year student at DTU(Formerly DCE). I am an incoming Software Engineer at Google and a former Quantitative Research Intern at JPMorgan Chase. You can check my work at the pinned repositories below: 
+I am a Software Engineer at Tower Research Capital. I work in developing in-house trading software solutions for my firm using C++. I have previously interned at JP Morgan Chase as a Quantative Research Intern. You can check my work at the pinned repositories below: 
 
 My LinkedIn Profile: https://www.linkedin.com/in/vkartik2k/
 
 ## Key Skills: 
 **Programming :** C++ (Proficient) • JavaScript • Python • TypeScript • ES6    
-**Web Development :** HTML • CSS • JQuery • REST • Node • PHP    
+**Web Development :** HTML • CSS • JQuery • REST • Node  
 **Database Management :** MySQL • Firebase    
-**Frameworks/Libraries :** ReactJS • React Native • ExpressJS • PrototypeJS    
-**UX Tools and Technologies :** Figma • Adobe XD   
