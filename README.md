@@ -1,7 +1,7 @@
 # Hi 👋, I am Kartik Verma
 
 
-I am a Software Engineer at Tower Research Capital. I work in development of in-house trading systems for my firm using C++. I have previously interned at JP Morgan Chase as a Quantative Research Intern. You can check my work at the pinned repositories below: 
+I am a Software Engineer at Tower Research Capital. I work in the development of in-house trading systems for my firm using C++. I have previously interned at JP Morgan Chase as a Quantitative Research Intern. You can check my work at the pinned repositories below:
 
 My LinkedIn Profile: https://www.linkedin.com/in/vkartik2k/
 
